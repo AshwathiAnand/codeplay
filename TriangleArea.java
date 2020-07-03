@@ -1,4 +1,5 @@
 import java.io.*;
+//To find area of triangle
 class TriangleArea {
 	public static void main(String args[]) {
 		if((args.length != 0) && (args.length == 2)) {
